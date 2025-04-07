@@ -9,7 +9,7 @@
 <body>
   <header>
     <div class="container">
-      <h1 class="logo">Your Name</h1>
+      <h1 class="logo">Carl Louie Delos Reyes</h1>
       <nav id="navbar">
         <ul>
           <li><a href="#hero">Home</a></li>
@@ -24,8 +24,8 @@
 
   <section id="hero">
     <div class="container">
-      <h2>Hi, I'm Your Name</h2>
-      <p>A passionate web developer creating modern and responsive websites.</p>
+      <h2>Hi, I'm Carl Louie Delos Reyes/h2>
+      <p>A Network Administrator. I help set up, manage, and take care of computer networks to make sure everything runs smoothly and securely. I work with things like routers, switches, and firewalls to keep the network fast, safe, and reliable.</p>
       <a href="#portfolio" class="btn">View My Work</a>
     </div>
   </section>
@@ -33,7 +33,7 @@
   <section id="about">
     <div class="container">
       <h2>About Me</h2>
-      <p>I love building beautiful and functional websites. My goal is to bring ideas to life in the browser with clean code and smart design.</p>
+      <p>Hi, I'm Carl Louie Delos Reyes, a dedicated and hardworking individual with a strong passion for learning and personal growth. I take pride in my ability to adapt quickly to new environments and challenges. Whether working independently or as part of a team, I stay focused, dependable, and eager to expand my skills. I believe in continuous improvement and always strive to bring a positive attitude and strong work ethic to everything I do.</p>
     </div>
   </section>
 
@@ -63,14 +63,14 @@
   <section id="contact">
     <div class="container">
       <h2>Contact Me</h2>
-      <p>Email: your.email@example.com</p>
-      <p>LinkedIn: <a href="#" target="_blank">Your LinkedIn</a></p>
+      <p>Email: carllouiedelosreyes1225@gmail.com</p>
+      <p>LinkedIn: <a href="#" target="_blank">[Your LinkedIn](https://www.linkedin.com/in/carl-louie-delos-reyes-856b87336/)</a></p>
     </div>
   </section>
 
   <footer>
     <div class="container">
-      <p>&copy; 2025 Your Name. All rights reserved.</p>
+      <p>&copy; 2025 Carl Louie Delos Reyes. All rights reserved.</p>
     </div>
   </footer>
 
